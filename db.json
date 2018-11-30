@@ -1,4 +1,4 @@
-[
+
 {
  "input":"admission",
  "output":"How To Apply\r\n\r\nhttp:\/\/www.ruet.ac.bd\/articles\/How%20to%20Apply\/33\r\n\r\nUndergraduate Examination\r\n\r\nhttp:\/\/www.ruet.ac.bd\/articles\/Undergraduate%20Admission\/63\r\n\r\nPostgraduate Admission\r\n\r\nhttp:\/\/www.ruet.ac.bd\/articles\/Postgraduate%20Studies\/34\r\n\r\nAdmission Schedule\r\n\r\nhttp:\/\/www.ruet.ac.bd\/articles\/Admission%20Schedule\/238\r\n\r\nInternational Admission\r\n\r\nhttp:\/\/www.ruet.ac.bd\/articles\/International%20Student\/241\r\n\r\nQuota\r\n\r\nhttp:\/\/www.ruet.ac.bd\/articles\/Quota\/242\r\n","time":"2017-08-22 00:00:00","id":"0","title":"Admission"},
@@ -32,5 +32,4 @@
 {"input":"hello","output":"Hi. How Can I Help You ?","time":"2017-08-27 12:24:55","id":"27","title":null},
 {"input":"facility","output":"Accomodation\r\n\r\nhttp:\/\/www.ruet.ac.bd\/articles\/Accommodation\/19\r\n\r\nLibrary\r\n\r\nhttp:\/\/www.ruet.ac.bd\/articles\/RUET%20Central%20Library\/2\r\n\r\nTransport\r\n\r\nhttp:\/\/www.ruet.ac.bd\/articles\/Transportation\/21\r\n\r\nMedical\r\n\r\nhttp:\/\/www.ruet.ac.bd\/articles\/Medical%20Centre\/20\r\n\r\nPostal And Banking\r\n\r\nhttp:\/\/www.ruet.ac.bd\/articles\/Postal%20%26%20Banking\/239\r\n\r\nComputer Centre\r\n\r\nhttp:\/\/ccc.ruet.ac.bd\/\r\n","time":"2017-08-27 19:10:40","id":"29","title":"Facility"},
 {"input":"ruet map","output":"Campus Map\r\n\r\nhttp:\/\/www.ruet.ac.bd\/articles\/University%20Map\/235","time":"2017-08-27 19:46:36","id":"30","title":"Ruet Map"}
-]
 
