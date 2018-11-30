@@ -1,11 +1,13 @@
 [
-{"type":"header","version":"4.8.0.1","comment":"Export to JSON plugin for PHPMyAdmin"},
-{"type":"database","name":"chat"},
-{"type":"table","name":"user","database":"chat","data":
-[
-{"input":"admission","output":"How To Apply\r\n\r\nhttp:\/\/www.ruet.ac.bd\/articles\/How%20to%20Apply\/33\r\n\r\nUndergraduate Examination\r\n\r\nhttp:\/\/www.ruet.ac.bd\/articles\/Undergraduate%20Admission\/63\r\n\r\nPostgraduate Admission\r\n\r\nhttp:\/\/www.ruet.ac.bd\/articles\/Postgraduate%20Studies\/34\r\n\r\nAdmission Schedule\r\n\r\nhttp:\/\/www.ruet.ac.bd\/articles\/Admission%20Schedule\/238\r\n\r\nInternational Admission\r\n\r\nhttp:\/\/www.ruet.ac.bd\/articles\/International%20Student\/241\r\n\r\nQuota\r\n\r\nhttp:\/\/www.ruet.ac.bd\/articles\/Quota\/242\r\n","time":"2017-08-22 00:00:00","id":"0","title":"Admission"},
-{"input":"hi","output":"Hello. How Can I Help You?","time":"2017-08-22 21:37:00","id":"1","title":null},
-{"input":"administration","output":"Vice Chancellor\r\n\r\nhttp:\/\/www.ruet.ac.bd\/articles\/Vice%20Chancellor\/6\r\n\r\nUniversity Syncdicate\r\n\r\nhttp:\/\/www.ruet.ac.bd\/articles\/University%20Syndicate%20Member\/8\r\n\r\nHead Of The Departments\r\n\r\nhttp:\/\/www.ruet.ac.bd\/articles\/Heads%20of%20Departments\/15","time":"2017-08-23 00:00:00","id":"3","title":"Administration"},
+{
+ "input":"admission",
+ "output":"How To Apply\r\n\r\nhttp:\/\/www.ruet.ac.bd\/articles\/How%20to%20Apply\/33\r\n\r\nUndergraduate Examination\r\n\r\nhttp:\/\/www.ruet.ac.bd\/articles\/Undergraduate%20Admission\/63\r\n\r\nPostgraduate Admission\r\n\r\nhttp:\/\/www.ruet.ac.bd\/articles\/Postgraduate%20Studies\/34\r\n\r\nAdmission Schedule\r\n\r\nhttp:\/\/www.ruet.ac.bd\/articles\/Admission%20Schedule\/238\r\n\r\nInternational Admission\r\n\r\nhttp:\/\/www.ruet.ac.bd\/articles\/International%20Student\/241\r\n\r\nQuota\r\n\r\nhttp:\/\/www.ruet.ac.bd\/articles\/Quota\/242\r\n","time":"2017-08-22 00:00:00","id":"0","title":"Admission"},
+{
+  "input":"hi",
+ "output":"Hello. How Can I Help You?","time":"2017-08-22 21:37:00","id":"1","title":null
+},
+{"input":"administration",
+ "output":"Vice Chancellor\r\n\r\nhttp:\/\/www.ruet.ac.bd\/articles\/Vice%20Chancellor\/6\r\n\r\nUniversity Syncdicate\r\n\r\nhttp:\/\/www.ruet.ac.bd\/articles\/University%20Syndicate%20Member\/8\r\n\r\nHead Of The Departments\r\n\r\nhttp:\/\/www.ruet.ac.bd\/articles\/Heads%20of%20Departments\/15","time":"2017-08-23 00:00:00","id":"3","title":"Administration"},
 {"input":"help","output":"HelpLine: 01757687942 Or \r\n\r\nhttp:\/\/ruet.ac.bd\r\n\r\n","time":"2017-08-23 12:15:57","id":"4","title":"Help"},
 {"input":"notices","output":"For Notice\r\n\r\nhttp:\/\/www.ruet.ac.bd\/archive\/notices","time":"2017-08-23 18:22:07","id":"6","title":"Notices"},
 {"input":"marks","output":"Math-100 \r\nPhysics-100 \r\nChemistry-100 \r\nEnglish-50<br>","time":"2017-08-23 18:24:07","id":"7","title":"Admission Marks"},
@@ -31,5 +33,4 @@
 {"input":"facility","output":"Accomodation\r\n\r\nhttp:\/\/www.ruet.ac.bd\/articles\/Accommodation\/19\r\n\r\nLibrary\r\n\r\nhttp:\/\/www.ruet.ac.bd\/articles\/RUET%20Central%20Library\/2\r\n\r\nTransport\r\n\r\nhttp:\/\/www.ruet.ac.bd\/articles\/Transportation\/21\r\n\r\nMedical\r\n\r\nhttp:\/\/www.ruet.ac.bd\/articles\/Medical%20Centre\/20\r\n\r\nPostal And Banking\r\n\r\nhttp:\/\/www.ruet.ac.bd\/articles\/Postal%20%26%20Banking\/239\r\n\r\nComputer Centre\r\n\r\nhttp:\/\/ccc.ruet.ac.bd\/\r\n","time":"2017-08-27 19:10:40","id":"29","title":"Facility"},
 {"input":"ruet map","output":"Campus Map\r\n\r\nhttp:\/\/www.ruet.ac.bd\/articles\/University%20Map\/235","time":"2017-08-27 19:46:36","id":"30","title":"Ruet Map"}
 ]
-}
-]
+
